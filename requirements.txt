@@ -1,0 +1,9 @@
+transformers
+torch
+faiss-cpu
+wikipedia
+gradio
+python-docx
+wikipedia-api
+PyPDF2
+nltk
